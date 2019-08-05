@@ -1,0 +1,5 @@
+$> git clone <YOUR REPO URL> <REPO DIR NAME>
+$> cd <REPO DIR NAME>
+$> mkdir policy
+$> cd policy
+$> cp ~/Downloads/agree.txt .
