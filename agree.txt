@@ -1,5 +1,5 @@
-$> git clone <YOUR REPO URL> <REPO DIR NAME>
-$> cd <REPO DIR NAME>
+$> git clone <https://github.com/alibekray/piscine_repo> <piscine_repo>
+$> cd <piscine_repo>
 $> mkdir policy
 $> cd policy
 $> cp ~/Downloads/agree.txt .
